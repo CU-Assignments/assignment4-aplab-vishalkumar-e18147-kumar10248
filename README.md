@@ -17,3 +17,5 @@
 ![image](https://github.com/user-attachments/assets/6ac6720b-68df-418c-adb1-847cd570f874)
 
 372.[Super Pow](https://leetcode.com/problems/super-pow/description/)<br>
+![image](https://github.com/user-attachments/assets/36b0a9d9-42c5-4505-a7d5-e882f59d7d94)
+
