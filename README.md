@@ -14,4 +14,6 @@
 ![image](https://github.com/user-attachments/assets/f170140c-8d04-44fa-9562-44af8b722859)
 
 240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)<br>
+![image](https://github.com/user-attachments/assets/6ac6720b-68df-418c-adb1-847cd570f874)
+
 372.[Super Pow](https://leetcode.com/problems/super-pow/description/)<br>
